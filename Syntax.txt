@@ -1,20 +1,27 @@
 Read these books before!
 input.js
 
-Once upon a time there was a class called Print Hello World. It was a shy class.
+Once upon a time there was a class called Print Hello World.
 
 Characters
 - Adam
 - Mark
+- Mikael
 - Demonize
+- 5 BadGuys
 
 Chapter 1 - Input with a key
 When key said "Space", then Print a text happened with "Hello World"!
+For every BadGuys, BadGuys number 1 said "HUODEHOD" and Adam became "Scared" and Mikael became dead
 Oh, what could happen next?
 
 Chapter 2 - Print with a text
+But then they met Ake!
 Mark said: text!
 As long as Adam was "Hello", Mark said "You suck"!
+Mikael said "YO" and Mikael said "BYE" 10 times.
 Oh, what could happen next?
+
+Chapter 3 - 
 
 And they lived happily ever after!
