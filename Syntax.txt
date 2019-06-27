@@ -1,0 +1,20 @@
+Read these books before!
+input.js
+
+Once upon a time there was a class called Print Hello World. It was a shy class.
+
+Characters
+- Adam
+- Mark
+- Demonize
+
+Chapter 1 - Input
+When Input said "Space", then Print a text happened with "Hello World"!
+Oh, what could happen next?
+
+Chapter 2 - Print a text
+Mark said: text!
+As long as Adam was "Hello", Mark said "You suck"!
+Oh, what could happen next?
+
+And they lived happily ever after!
