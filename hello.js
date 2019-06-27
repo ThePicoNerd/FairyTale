@@ -1,1 +1,26 @@
-Read these books before you read this!- input.jsOnce upon a time there was a class called Print Hello World.Characters- Adam- Mark- DemonizeChapter 1 - Input with a keyWhen key said "Space", then Print a text happened with "Hello World"!Oh, what could happen next?Chapter 2 - Print with a textMark said: text!As long as Adam was "Hello", Mark said "You suck"!Oh, what could happen next?And they lived happily ever after!
+// DEPENDENCIES
+// input.js
+
+// Once upon a time there was a class called Print Hello World.
+
+// CHARACTERS
+let Adam;
+let Mark;
+let Mikael;
+let Demonize;
+
+function Input(key, orange) {}
+
+function Print(text) {
+  let Ake;
+  console.log("Mark: " + text);
+  while (Adam == "Hello" && Ake != dead) {
+    for (let iterator_3 = 0; iterator_3 < 10; iterator_3++) {
+      console.log("Mikael: " + "YO");
+      console.log("Mikael: " + "BYE");
+    }
+  }
+}
+
+console.log("Narrator: End of story.");
+process.exit(0);

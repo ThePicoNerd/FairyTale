@@ -1,4 +1,4 @@
 {
-  "exec": "node . --source ../Syntax.txt --filename ../hello.js --author ThePicoNerd",
+  "exec": "node . --source ../Syntax.tale --target ../hello.js",
   "ext": ".js"
 }
