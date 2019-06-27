@@ -1,4 +1,0 @@
-{
-  "exec": "node . --source ../Syntax.tale --target ../hello.js",
-  "ext": ".js"
-}

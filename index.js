@@ -31,7 +31,11 @@ const run = async () => {
     source: fs.readFileSync(path.join(process.cwd(), source), "utf8")
   });
 
-  fs.writeFileSync(path.join(process.cwd(), target), js);
+  let output = path.join(process.cwd(), target);
+
+  fs.mkdirpSync(path.dirname(output));
+
+  fs.writeFileSync(output, js);
 };
 
 run();
