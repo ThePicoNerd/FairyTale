@@ -8,11 +8,11 @@ Characters
 - Mark
 - Demonize
 
-Chapter 1 - Input
-When Input said "Space", then Print a text happened with "Hello World"!
+Chapter 1 - Input with a key
+When key said "Space", then Print a text happened with "Hello World"!
 Oh, what could happen next?
 
-Chapter 2 - Print a text
+Chapter 2 - Print with a text
 Mark said: text!
 As long as Adam was "Hello", Mark said "You suck"!
 Oh, what could happen next?
