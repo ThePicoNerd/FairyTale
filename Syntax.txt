@@ -1,7 +1,7 @@
-Read these books before!
-input.js
+Read these books before you read this!
+- input.js
 
-Once upon a time there was a class called Print Hello World. It was a shy class.
+Once upon a time there was a class called Print Hello World.
 
 Characters
 - Adam
