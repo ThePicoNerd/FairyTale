@@ -12,15 +12,15 @@ Then, add your characters one by one with a dash:
 - Lily
 ```
 There's no way to assign a type to a character.
-To set a character, use **became**:
+To set a character, use **became**:  
 ```Adam became 5```
 
-There are no arrays, only friendships!
+There are no arrays, only friendships!  
 `- 5 Dwarves`
 `- 19 Buddies`
 
 ### Dead or Alive
-In a story, characters aren't "True" or "False". Logically, the FairyTale equivalent of a bool is dead or alive!  
+In a story, characters aren't "True" or "False". Logically, the FairyTale equivalent of a bool is dead or alive!   
 `James became dead`
 
 ### Chapters
