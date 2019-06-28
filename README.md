@@ -59,7 +59,7 @@ For every Dwarf of Dwarves:
 Dwarf became "happy"
 ```
 
-### If Statements
+### When Statements
 The question isn't **if**, it's ***when***
 ```
 When Romeo was dead, this happened:
@@ -86,8 +86,8 @@ The magic unicorn is afraid of brackets(Of course). Just put it inside brackets 
 `(Plot twist goes here)`
 
 ### Previous Books
-You want to import an entire library? Whoa there, fella. How'd you plan on doing that? You gotta specify books separately!  
-`Read these books before you read this!`
+You want to import an entire library? Whoa there, fella. How'd you plan on doing that? You gotta specify books separately!   
+`Read these books before you read this!`  
 Then, just add the books with a dash.
 ```
 - How to Not Die 2
