@@ -1,4 +1,5 @@
 # FairyTale
+
 A programming language designed to look like a fairytale! No complicated symbols, just text!
 
 Characters
@@ -22,3 +23,7 @@ The chapters need to have a number, and they have to be in the right order!
 
 Like any story, your fairytale has to have an ending:
 And they lived happily ever after!
+
+## Compiler
+
+Simply install the compiler with `npm i -g fairytalescript`. The command is `fairytale`. You can use the flags `-s` and `-o` to specify source and output file respectively. If you want the compiler to read your book instantly, you add `-r` to the end of the command.
