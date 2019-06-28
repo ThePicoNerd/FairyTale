@@ -49,7 +49,7 @@ The magic compiling unicorn sadly can't speak. If you want to print something, a
 Fairytales typically have events that repeat. Just write how many times you want it to happen:  
 `This happened 10 times:`
 
-But what if you want something to happen an unspecified amount of times? Well, just use **as long as** and the loop will continue while all the conditions are true. 
+But what if you want something to happen an unspecified amount of times? Well, just use **as long as** and the loop will continue while all the conditions are true.  
 `This happend as long as Adam was "Hello" and Mike not was dead:`
 
 Want to run a loop for every character in a friendship?
