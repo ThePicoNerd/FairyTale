@@ -16,7 +16,7 @@ To set a character, use **became**:
 ```Adam became 5```
 
 There are no arrays, only friendships!  
-`- 5 Dwarves`
+`- 5 Dwarves`  
 `- 19 Buddies`
 
 ### Dead or Alive
@@ -25,30 +25,34 @@ In a story, characters aren't "True" or "False". Logically, the FairyTale equiva
 
 ### Chapters
 To make a funtion, you make a chapter! Just like this:  
-`Chapter 1 - Hunble Beginnings`
+`Chapter 1 - Hunble Beginnings`  
 The chapters need to have a number, and they have to be in the right order!
 
- Chapter 1 will automatically start, but the others you gotta call yourself.
+ Chapter 1 will automatically start, but the others you gotta call yourself.  
 `Chapter 2 happened.`
 
-To make a variable inside a chapter, just introduce a new character:
+To make a variable inside a chapter, just introduce a new character:  
 `But then they met Cinderella!`
 
-A chapter needs to end in a satisfying way:
+Every good story has a message. To return something, simply write:  
+`What did we learn from this? Mikael.`
+The rest of the chapter won't be read. Without a message, what's the point? Simply shallow entertainment with no purpose but to distract us from the horrors of life?
+
+A chapter needs to end in a satisfying way:  
 `Oh, what could happen next?`
 
 ### Dialogue
-The magic compiling unicorn sadly can't speak. If you want to print something, a character has to speak:
+The magic compiling unicorn sadly can't speak. If you want to print something, a character has to speak:  
 `Mark said: "Hey guys! Let's explore that cave."`
 
 ### Loops
-Fairytales typically have events that repeat. Just write how many times you want it to happen:
+Fairytales typically have events that repeat. Just write how many times you want it to happen:  
 `This happened 10 times:`
 
 But what if you want something to happen an unspecified amount of times? Well, just use **as long as** and the loop will continue while all the conditions are true. 
 `This happend as long as Adam was "Hello" and Mike not was dead:`
 
-Want to run a loop for every character in 
+Want to run a loop for every character in a friendship?
 ```
 When Snow was "white"
 For every Dwarf of Dwarves:
@@ -74,15 +78,15 @@ Hansel became alive.
 Gretel became alive.
 Narrator said "Ah, there you are!".
 ```
-To write **or**, type |[|]%¤ |} followed by TO_OR_STATEMENT.c]x| and then convert it to js++ using...
+To write **or**, type |[|]%¤ |} followed by TO_OR_STATEMENT.c]x| and then convert it to js++ using...   
 Just kidding, it's **or**. And **and**.
 
 ### Comments
-The magic unicorn is afraid of brackets(Of course). Just put it inside brackets and it will be ignored:
+The magic unicorn is afraid of brackets(Of course). Just put it inside brackets and it will be ignored:   
 `(Plot twist goes here)`
 
 ### Previous Books
-You want to import an entire library? Whoa there, fella. How'd you plan on doing that? You gotta specify books separately!
+You want to import an entire library? Whoa there, fella. How'd you plan on doing that? You gotta specify books separately!  
 `Read these books before you read this!`
 Then, just add the books with a dash.
 ```
@@ -102,5 +106,5 @@ The magic unicorn will translate your intriguing tale to javasc... Uhm, Unicorn 
 
 Simply install the compiler with `npm i -g fairytalescript`. The command is `fairytale`. You can use the flags `-s` and `-o` to specify source and output file respectively. If you want the compiler to read your book instantly, you add `-r` to the end of the command. The magic unicorn will take care of the rest!
 
-**Created by SpeedFrame and ThePicoNerd**
+**Created by SpeedFrame and ThePicoNerd**  
 with help from the unicorn
