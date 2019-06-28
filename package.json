@@ -1,6 +1,6 @@
 {
-  "name": "fairytale",
-  "version": "0.1.1",
+  "name": "fairytalescript",
+  "version": "0.2.1",
   "description": "",
   "main": "index.js",
   "keywords": [],
@@ -12,5 +12,12 @@
     "fs-extra": "^8.0.1",
     "prettier": "^1.18.2",
     "yargs": "^13.2.4"
+  },
+  "bin": {
+    "fairytale": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThePicoNerd/FairyTale.git"
   }
 }
