@@ -35,7 +35,7 @@ To make a variable inside a chapter, just introduce a new character:
 `But then they met Cinderella!`
 
 Every good story has a message. To return something, simply write:  
-`What did we learn from this? Mikael.`
+`What did we learn from this? Mikael.`  
 The rest of the chapter won't be read. Without a message, what's the point? Simply shallow entertainment with no purpose but to distract us from the horrors of life?
 
 A chapter needs to end in a satisfying way:  
