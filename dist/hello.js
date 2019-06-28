@@ -1,3 +1,5 @@
+func_1();
+
 // DEPENDENCIES
 // input.js
 
@@ -9,12 +11,15 @@ let Mark;
 let Mikael;
 let Demonize;
 
-function Input(key, orange) {}
+function func_1(key, orange) {}
 
-function Print(text) {
+function func_2(text) {
   let Ake;
+  Ake = Mikael;
   console.log("Mark: " + text);
-  while (Adam == "Hello" && Ake != dead) {
+  func_1(Ake, 5);
+  Mikael = func_1(5, Ake);
+  while (Adam == "Hello" && Ake != false) {
     for (let iterator_3 = 0; iterator_3 < 10; iterator_3++) {
       console.log("Mikael: " + "YO");
       console.log("Mikael: " + "BYE");

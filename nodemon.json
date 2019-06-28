@@ -1,5 +1,5 @@
 {
-  "exec": "node . --source Syntax.tale --target dist/hello.js",
+  "exec": "node . -s Syntax.tale -o dist/hello.js",
   "ext": ".js",
   "ignore": "dist"
 }
