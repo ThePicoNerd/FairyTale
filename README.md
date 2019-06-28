@@ -4,7 +4,7 @@ A programming language designed to look like a fairytale! No complicated symbols
 
 ### Characters
 There are no variables in FairyTale, just characters. First, you make a header like this:  
-```Characters```
+```Characters```  
 Then, add your characters one by one with a dash:
 ```
 - Adam
